@@ -142,4 +142,4 @@ This is **not** an official Maxon or Epic Games tool. Use at your own risk. The 
 
 ## License
 
-[MIT](LICENSE) © 2026 YOUR_NAME
+[MIT](LICENSE) © 2026 jijijjicpu
